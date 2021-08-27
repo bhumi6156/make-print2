@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/make-print2/static/css/main.f8105a7b.chunk.css",
+    "main.js": "/make-print2/static/js/main.783d7e8f.chunk.js",
+    "main.js.map": "/make-print2/static/js/main.783d7e8f.chunk.js.map",
+    "runtime-main.js": "/make-print2/static/js/runtime-main.b5ac2a07.js",
+    "runtime-main.js.map": "/make-print2/static/js/runtime-main.b5ac2a07.js.map",
+    "static/js/2.3be0d136.chunk.js": "/make-print2/static/js/2.3be0d136.chunk.js",
+    "static/js/2.3be0d136.chunk.js.map": "/make-print2/static/js/2.3be0d136.chunk.js.map",
+    "static/js/3.edb7776e.chunk.js": "/make-print2/static/js/3.edb7776e.chunk.js",
+    "static/js/3.edb7776e.chunk.js.map": "/make-print2/static/js/3.edb7776e.chunk.js.map",
+    "index.html": "/make-print2/index.html",
+    "static/css/main.f8105a7b.chunk.css.map": "/make-print2/static/css/main.f8105a7b.chunk.css.map",
+    "static/js/2.3be0d136.chunk.js.LICENSE.txt": "/make-print2/static/js/2.3be0d136.chunk.js.LICENSE.txt",
+    "static/media/LandingPage.css": "/make-print2/static/media/img2.2d778e62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5ac2a07.js",
+    "static/js/2.3be0d136.chunk.js",
+    "static/css/main.f8105a7b.chunk.css",
+    "static/js/main.783d7e8f.chunk.js"
+  ]
+}
